@@ -7,3 +7,12 @@ c:\users\abel\documents\visual studio 2017\Projects\Calculator\Calculator\obj\De
 c:\users\abel\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
 c:\users\abel\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
 c:\users\abel\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Abel\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Abel\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Abel\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Abel\Desktop\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Abel\Desktop\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Abel\Desktop\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Abel\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Abel\Desktop\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Abel\Desktop\Calculator\Calculator\obj\Debug\Calculator.pdb
